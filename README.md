@@ -1,2 +1,4 @@
 # hello-world
-Only the beginning
+Only the beginning...
+
+Now we are really going to make it happen!
